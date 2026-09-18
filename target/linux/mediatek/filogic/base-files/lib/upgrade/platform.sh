@@ -130,6 +130,7 @@ platform_do_upgrade() {
 	airpi,ap3000m|\
 	*Airpi*|\
 	cmcc,rax3000m-emmc|\
+	cmcc,xr30-emmc|\
 	bt,r320|\
 	bt,rb300|\
 	philips,hy3000|\
@@ -275,6 +276,7 @@ platform_copy_config() {
 	glinet,gl-xe3000|\
 	huasifei,wh3000-emmc|\
 	cmcc,rax3000m-emmc|\
+	cmcc,xr30-emmc|\
 	philips,hy3000|\
 	jdcloud,re-cp-03|\
 	sl,3000-emmc|\
